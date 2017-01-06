@@ -1,5 +1,5 @@
 # blogpost
-repository to hold all blog post
+Stuff to learn
 
-1) How to score a regression model created using R in Hive  
+1) http://www.real-statistics.com/regression/confidence-and-prediction-intervals/ 
 2) Testing how dilinger works
